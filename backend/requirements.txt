@@ -1,0 +1,7 @@
+langchain
+langchain_community
+redis
+langchain_ollama
+flask
+flask_cors
+jsonify
